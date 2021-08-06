@@ -1,3 +1,4 @@
-# bulletin
+### bulletin
+Collection of Dhruv Bhatnagar's work and thoughts.
 
-[My website](https://dhruvbhq.github.io/bulletin)
+[Link to my website](https://dhruvbhq.github.io/bulletin)
