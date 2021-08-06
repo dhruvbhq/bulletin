@@ -9,7 +9,6 @@ date_format: "%b %-d, %Y"
 header_pages:
  - about.md
  - contact.html
-remote_theme: pages-themes/minimal
 
 # Google services
 google_verification:
@@ -113,6 +112,7 @@ text:
 
 # Build settings
 markdown:     kramdown
+remote_theme: pages-themes/minimal@v0.2.0
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
@@ -120,6 +120,7 @@ paginate:     4
 sass:
   style: compressed
 plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
   - jekyll-paginate
   - jekyll-sitemap
 # https://github.com/jekyll/jekyll/issues/2938
