@@ -1,3 +1,3 @@
 # bulletin
 
-[My website](https://www.dhruvbhq.github.io/bulletin)
+[My website](https://dhruvbhq.github.io/bulletin)
