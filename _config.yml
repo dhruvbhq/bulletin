@@ -3,8 +3,8 @@ title:       Dhruv's bulletin
 email:       dhruvbhatnagar1@gmail.com
 author:      Dhruv Bhatnagar
 description: "Collection of my work and thoughts."
-baseurl:     ""
-url:         "https://dhruvbhq.github.io/bulletin"
+baseurl:     "bulletin"
+url:         ""
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
