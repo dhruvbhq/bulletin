@@ -4,7 +4,7 @@ email:       dhruvbhatnagar1@gmail.com
 author:      Dhruv Bhatnagar
 description: "Collection of my work and thoughts."
 baseurl:     ""
-url:         "https://dhruvsbulletin.qc"
+url:         "https://dhruvbhq.github.io/bulletin"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
