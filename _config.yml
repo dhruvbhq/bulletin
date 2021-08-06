@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Dhruv's bulletin
+email:       dhruvbhatnagar1@gmail.com
+author:      Dhruv Bhatnagar
+description: "Collection of my work and thoughts."
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://dhruvsbulletin.qc"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -21,12 +21,12 @@ google_tag_manager:
 bing_verification:
 
 # Optional features
-animated:             false
+animated:             true
 show_related_posts:   false
 show_post_footers:    false
-show_social_icons:    false
+show_social_icons:    true
 ajaxify_contact_form: false
-enable_mathjax: false
+enable_mathjax: true
 extended_fonts: false
 enable_anchorjs: false
 # Preview image for social media aka og:image and twitter:image
@@ -48,7 +48,7 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: dhruvbhq
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
@@ -66,12 +66,12 @@ telegram_username:
 vk_id:
 
 # Post sharing icons
-show_sharing_icons: false
+show_sharing_icons: true
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
-share_googleplus: false
-share_linkedin: false
+share_facebook: true
+share_twitter: true
+share_googleplus: true
+share_linkedin: true
 share_digg: false
 share_tumblr: false
 share_reddit: false
