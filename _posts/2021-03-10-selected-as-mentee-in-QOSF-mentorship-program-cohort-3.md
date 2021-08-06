@@ -10,7 +10,7 @@ Hi there!
 
 It is a pleasure to announce that I have been selected as one of the mentees for the highly regarded QOSF Mentorship program!
 
-According to the official description (see the [website](<https://qosf.org/qc_mentorship>), the program was set up to guide _"people from diverse backgrounds who want to learn more about quantum computing ... by pairing them with mentors ... to help them overcome these hurdles and create interesting projects"._ The mentors are experts who are well experienced in quantum computing and belong to industry or academia.
+According to the official description (see the [website](<https://qosf.org/qc_mentorship>)), the program was set up to guide _"people from diverse backgrounds who want to learn more about quantum computing ... by pairing them with mentors ... to help them overcome these hurdles and create interesting projects"._ The mentors are experts who are well experienced in quantum computing and belong to industry or academia.
 
 Out of around 800 applications from around the world, of people with varying levels of experience, I am one of the 40 candidates selected as a project mentee (i.e. a protege).
 
